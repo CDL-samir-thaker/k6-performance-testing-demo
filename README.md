@@ -41,5 +41,4 @@ k6 run test/first-test.js
 ```
 
 <br>Test Result:<br>
-<img width="946" alt="Screenshot 2023-03-15 at 1 20 00 PM" src="test/images/Screenshot 2023-11-12 at 7.25.06 PM.png
-">
+<img width="946" alt="Screenshot 2023-03-15 at 1 20 00 PM" src="https://github.com/CDL-samir-thaker/k6-performance-testing-demo/assets/95042418/a4cbb23e-0018-4808-a7e1-dc1df2cd0107.png">
