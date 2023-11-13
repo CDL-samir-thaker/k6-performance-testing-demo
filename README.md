@@ -19,28 +19,27 @@ k6 is packed with features, which you can learn all about in the documentation. 
 <li>Scripting in JavaScript ES2015/ES6 - with support for local and remote modules <li>Checks and Thresholds - for goal-oriented, automation-friendly load testing
 </ul>
 
-
 # Prerequisites
 
-1. Install Visual Studio Code. (https://code.visualstudio.com/download)<br>
+1. Install Visual Studio Code. (<https://code.visualstudio.com/download>)<br>
 2. Install the k6 using below commands <br>
     For Mac: Open terminal, type brew install k6 <br>
     For Windows: Open teminal, type winget install k6 --source winget<br>
-    For more installation guide visit : https://k6.io/docs/get-started/installation/<br>
-
-
+    For more installation guide visit : <https://k6.io/docs/get-started/installation/><br>
 
 # Installation
 
-1. Clone the repo- https://github.com/CDL-samir-thaker/k6-performance-testing-demo.git
+1. Clone the repo- <https://github.com/CDL-samir-thaker/k6-performance-testing-demo.git>
 2. Open the vs code terminal, type
-
 
 # Usage
 
-1.  To run the k6 Test - Open vs code terminal & type:
+1. To run the k6 Test - Open vs code terminal & type:
 
  ```typescript
 k6 run test/first-test.js
 ```
 
+<br>Test Result:<br>
+<img width="946" alt="Screenshot 2023-03-15 at 1 20 00 PM" src="https://github.com/CDL-samir-thaker/k6-performance-testing-demo/assets/95042418/2fd17aae-49a2-4217-8deb-9a8202566dda
+">
